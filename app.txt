@@ -1,1 +1,2 @@
 Apllication service
+CLI case3 SOFT
