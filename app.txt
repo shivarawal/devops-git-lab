@@ -1,3 +1,2 @@
 Apllication service
 CLI case3 SOFT
-CLI revert test
