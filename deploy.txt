@@ -1,2 +1,3 @@
 kubernetes deployment
 prometheus monitoring enabled
+security patch applied
