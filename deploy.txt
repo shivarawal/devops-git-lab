@@ -1,1 +1,2 @@
 kubernetes deployment
+prometheus monitoring enabled
