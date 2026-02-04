@@ -1,5 +1,1 @@
-kubernetes deployment
-prometheus monitoring enabled
-security patch applied
-Centralized logging enabled
-
+version=2.0 # set by dev-B
