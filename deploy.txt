@@ -1,1 +1,1 @@
-version=1.0 # set by dev-A
+version=2.0 # approved after discussion
